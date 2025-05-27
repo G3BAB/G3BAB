@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bachelor in Geoinformatics • Python Developer • Currently learning Machine Learning
 
-<!--
-**G3BAB/G3BAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 I specialize in:
+- 🌍 **GIS Tool Development** – Automating geospatial workflows using Python and open-source libraries like GeoPandas, Rasterio, and Shapely.
+- 🌐 **GIS & Web Integration** – Building interactive maps and dashboards using Leaflet, Mapbox, and web frameworks.
+- 🛰️ **Spectral & Remote Sensing Analysis** – Processing and interpreting multispectral and hyperspectral data for real-world applications (e.g., land cover, mineral recognition).
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**: Python, JavaScript, SQL  
+**GIS**: QGIS, ArcGIS, GeoPandas, ArcPy  
+**Web**: Leaflet, Mapbox, HTML/CSS 
+**ML**: scikit-learn, tensorflow, MATLAB 
