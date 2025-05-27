@@ -1,6 +1,6 @@
 ## Bachelor in Geoinformatics • Python Developer • Currently learning Machine Learning
 
-### 🔧 I specialize in:
+### I specialize in:
 - 🌍 **GIS Tool Development** – Automating geospatial workflows using Python and open-source libraries like GeoPandas, Rasterio, and Shapely.
 - 🌐 **GIS & Web Integration** – Building interactive maps and dashboards using Leaflet, Mapbox, and web frameworks.
 - 🛰️ **Spectral & Remote Sensing Analysis** – Processing and interpreting multispectral and hyperspectral data for real-world applications (e.g., land cover, mineral recognition).
