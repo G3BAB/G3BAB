@@ -17,9 +17,8 @@
 **ML**: scikit-learn, tensorflow, MATLAB   
   
   
-### 📚 Favorite Learning Resources
-
-**Books**
+### 📚 Favorite Resources
+**Books:**
 - *Probabilistic Machine Learning* – [Kevin P. Murphy](https://github.com/murphyk)  
 - *Linux Bible* – [Cristopher Negus](https://github.com/chrisnegus)
 - *Deep Work* – Cal Newport
