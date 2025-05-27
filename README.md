@@ -1,5 +1,8 @@
 ## Bachelor in Geoinformatics • Python Developer • Currently learning Machine Learning
 
+My GIS portfolio:
+<a href="https://github.com/G3BAB/G3BAB" style="padding:8px 16px;background:#28a745;color:white;border-radius:6px;text-decoration:none;">GIS Portfolio</a>
+
 ### I specialize in:
 - 🌍 **GIS Tool Development** – Automating geospatial workflows using Python and open-source libraries like GeoPandas, Rasterio, and Shapely.
 - 🌐 **GIS & Web Integration** – Building interactive maps and dashboards using Leaflet, Mapbox, and web frameworks.
@@ -18,3 +21,5 @@
 - *Probabilistic Machine Learning* – [Kevin P. Murphy](https://github.com/murphyk)  
 - *Linux Bible* – [Cristopher Negus](https://github.com/chrisnegus)
 - *Deep Work* – Cal Newport
+
+
