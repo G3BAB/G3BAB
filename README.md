@@ -1,5 +1,6 @@
 ## Bachelor in Geoinformatics • Python Developer • Currently learning Machine Learning
 
+# Get to know my projects:
 [![My Repo](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://github.com/G3BAB/GIS-Photometry-Portfolio) [![My Repo](https://img.shields.io/badge/Gravity_Correction-green?style=for-the-badge)](https://github.com/G3BAB/graviton)
 
 ### I specialize in:
