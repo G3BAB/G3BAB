@@ -9,5 +9,5 @@
 
 **Languages**: Python, JavaScript, SQL  
 **GIS**: QGIS, ArcGIS, GeoPandas, ArcPy  
-**Web**: Leaflet, Mapbox, HTML/CSS 
+**Web**: Leaflet, Mapbox, HTML/CSS
 **ML**: scikit-learn, tensorflow, MATLAB 
