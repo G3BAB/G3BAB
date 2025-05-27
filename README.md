@@ -1,6 +1,6 @@
 ## Bachelor in Geoinformatics • Python Developer • Currently learning Machine Learning
 
-[![My Repo](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://github.com/G3BAB/GIS-Photometry-Portfolio) [![My Repo](https://img.shields.io/badge/Gravity_Anomaly-green?style=for-the-badge)](https://github.com/G3BAB/graviton)
+[![My Repo](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge)](https://github.com/G3BAB/GIS-Photometry-Portfolio) [![My Repo](https://img.shields.io/badge/Gravity_Correction-green?style=for-the-badge)](https://github.com/G3BAB/graviton)
 
 ### I specialize in:
 - 🌍 **GIS Tool Development** – Automating geospatial workflows using Python and open-source libraries like GeoPandas, Rasterio, and Shapely.
